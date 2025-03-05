@@ -20,7 +20,7 @@ Before running the app, ensure that:
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/xheater-android-version.git
+   git clone https://github.com/dtlaoye/xheater-android-version.git
    cd BLE-Scanner
    ```
 2. Open the project in **Android Studio**.
